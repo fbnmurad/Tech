@@ -1,0 +1,18 @@
+CONFIGURAÇÃO DO COMPUTADOR DA RECEPÇÃO
+
+Atende Lenovo, Dell e outros computadores Windows.
+
+O script identifica a máquina e gera um nome de computador válido a partir do
+fabricante/modelo detectado, sempre respeitando o limite de 15 caracteres do
+Windows.
+
+Padrões:
+- usuário local: recep;
+- nome completo: Apaixonados Itaipuaçu Recepção;
+- descrição curta da conta: Recepção - Apaixonados Itaipuaçu;
+- sufixo do computador: RECEP.
+
+O script não renomeia C:\Users\<perfil>, pois isso pode danificar o perfil.
+Ele preserva SID, senha, PIN, arquivos, programas e permissões da conta local.
+
+Um arquivo de reversão é criado na Área de Trabalho antes das alterações.

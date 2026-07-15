@@ -1,0 +1,19 @@
+VERIFICADOR UNIVERSAL DE BIOS
+
+O script apenas consulta e registra informações. Ele não baixa, não instala,
+não reinicia e não regrava BIOS/UEFI.
+
+Fluxo:
+- identifica fabricante, modelo, produto, série, BIOS e Windows;
+- detecta ferramenta OEM disponível;
+- registra modo UEFI e Secure Boot;
+- gera relatório e ZIP na Área de Trabalho.
+
+Comparação automática:
+- Lenovo ThinkPad T14 Gen 1 Intel tipos 20S0/20S1 ainda usa a referência
+  conhecida DS544549 e tenta consultar a página Lenovo ao vivo;
+- Dell e outros modelos entram em modo seguro de verificação manual, com link
+  para suporte/ferramenta OEM quando disponível.
+
+Antes de qualquer atualização real de BIOS, confirme carregador, bateria,
+BitLocker e chave de recuperação.

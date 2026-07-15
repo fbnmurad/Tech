@@ -1,0 +1,28 @@
+ATUALIZADOR UNIVERSAL DE DRIVERS
+
+Atende Lenovo, Dell e outros computadores Windows.
+
+O script primeiro identifica a máquina:
+- fabricante normalizado;
+- modelo/produto;
+- tipo Lenovo, quando existir;
+- Service Tag Dell, quando existir;
+- BIOS e versão do Windows.
+
+Depois ele:
+- cria inventário dos drivers atuais;
+- oferece exportar backup dos drivers com pnputil;
+- tenta criar ponto de restauração;
+- procura a ferramenta oficial do fabricante:
+  - Lenovo System Update;
+  - Dell Command Update ou SupportAssist;
+- permite pesquisa opcional de drivers pelo Microsoft Update;
+- compara os drivers antes/depois e gera relatório.
+
+SEGURANÇA
+
+- Não baixa drivers de sites de terceiros.
+- Não força driver manual de modelo diferente.
+- Não força atualização de BIOS.
+- Não instala drivers do Microsoft Update sem confirmação explícita.
+- Para BIOS/UEFI, use o verificador de BIOS e confirme BitLocker/chave de recuperação.

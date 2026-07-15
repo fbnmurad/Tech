@@ -1,0 +1,40 @@
+ATUALIZAÇÃO UNIVERSAL PARA WINDOWS 11 25H2
+
+Este pacote não contém o Windows. A ISO deve ser baixada diretamente da Microsoft.
+
+PROCEDIMENTO
+
+1. Faça backup dos arquivos importantes.
+2. Mantenha o carregador conectado.
+3. Abra a página oficial:
+   https://www.microsoft.com/pt-br/software-download/windows11
+4. Na seção de ISO para dispositivos x64, baixe a versão atual 25H2.
+5. Escolha o mesmo idioma do Windows atual, normalmente Português (Brasil).
+6. Clique com o botão direito no arquivo ISO e escolha Montar.
+7. Execute FORCAR_ATUALIZACAO_WINDOWS11_25H2.cmd como administrador.
+8. O script identificará fabricante, modelo, BIOS e versão atual do Windows.
+9. Primeiro escolha a opção 1 para verificar a compatibilidade.
+10. Se o resultado for 0xC1900210, execute novamente e escolha a opção 2.
+11. Não inicialize o computador pelo pendrive/ISO. Para preservar aplicativos e
+    dados, o setup.exe precisa ser iniciado de dentro do Windows atual.
+
+O comando de atualização:
+setup.exe /auto upgrade /dynamicupdate disable /eula accept
+          /compat ignorewarning /bitlocker alwayssuspend
+
+O que ele faz:
+- preserva aplicativos e dados;
+- não realiza instalação limpa;
+- desativa somente as atualizações online durante o Setup;
+- ignora apenas avisos de compatibilidade que podem ser dispensados;
+- não ignora requisitos obrigatórios ou bloqueios graves;
+- suspende temporariamente o BitLocker durante a atualização;
+- grava logs em C:\Win11_25H2_Logs.
+
+Após a instalação:
+1. Pressione Win+R, execute winver e confirme a versão 25H2.
+2. Abra o Windows Update e instale todas as atualizações disponíveis.
+3. Abra a ferramenta oficial do fabricante:
+   - Lenovo: Lenovo System Update ou Lenovo Vantage;
+   - Dell: Dell Command Update ou SupportAssist.
+4. Reinicie até não haver mais atualizações pendentes.

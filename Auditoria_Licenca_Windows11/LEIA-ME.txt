@@ -1,0 +1,33 @@
+﻿AUDITORIA TÉCNICA DA LICENÇA DO WINDOWS 11
+
+1. Extraia todos os arquivos deste ZIP.
+2. Clique com o botão direito em EXECUTAR_AUDITORIA.cmd.
+3. Escolha "Executar como administrador".
+4. Aguarde até aparecer "AUDITORIA CONCLUÍDA".
+5. Na Área de Trabalho, abra a pasta Auditoria_Licenca_Windows_DATA_HORA.
+6. Leia primeiro RESULTADO_LEIA_PRIMEIRO.txt.
+7. Para uma segunda análise, envie o ZIP gerado na Área de Trabalho.
+
+O script é somente leitura:
+- não instala chave;
+- não ativa o Windows;
+- não remove licença;
+- não mostra a chave OEM completa;
+- não altera serviços ou configurações.
+
+O diagnóstico verifica:
+- versão, edição e build;
+- status da licença;
+- canal OEM, Retail, MAK ou KMS;
+- presença de chave OEM OA3 no firmware;
+- servidor KMS manual;
+- relatórios oficiais SLMGR /DLV e /XPR;
+- assinatura dos componentes de licenciamento;
+- tarefas, serviços e programas com nomes de ativadores conhecidos;
+- entradas suspeitas no arquivo hosts;
+- exclusões do Microsoft Defender.
+
+IMPORTANTE:
+Nenhum programa consegue provar sozinho a origem jurídica da licença.
+Uma licença pode estar tecnicamente ativada e ainda ter sido vendida sem autorização.
+Certeza jurídica exige nota fiscal, comprovante de compra ou confirmação da Microsoft.

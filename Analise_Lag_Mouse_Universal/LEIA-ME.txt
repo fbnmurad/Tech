@@ -1,0 +1,17 @@
+ANÁLISE DE LAG OU CONGELAMENTOS DO MOUSE
+
+Atende qualquer computador Windows.
+
+O script primeiro identifica a máquina e grava fabricante, modelo, BIOS,
+versão do Windows e ferramenta OEM encontrada.
+
+Funções:
+- diagnóstico completo de 90 segundos;
+- coleta de CPU, DPC, interrupções, memória, disco, drivers e eventos;
+- correções conservadoras e reversíveis de energia USB/Wi-Fi;
+- coleta avançada WPR de 60 segundos;
+- abertura da ferramenta oficial do fabricante, quando encontrada.
+
+Para Lenovo, ele procura Lenovo System Update. Para Dell, procura Dell Command
+Update ou SupportAssist. Para outros fabricantes, mantém o diagnóstico genérico
+e orienta usar Windows Update ou o suporte oficial do fabricante.

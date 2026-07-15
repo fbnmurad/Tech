@@ -1,0 +1,22 @@
+﻿MIGRAR C:\Users\User PARA UM NOVO C:\Users\recep
+
+Não é seguro apenas renomear a pasta e editar ProfileImagePath. Isso pode causar perfil temporário, menu Iniciar quebrado e aplicativos com caminhos inválidos.
+
+Este pacote cria um perfil novo e preserva o antigo.
+
+1. Faça backup dos arquivos importantes.
+2. Execute 1_PREPARAR_NOVO_PERFIL_RECEP.cmd como administrador.
+3. Digite MIGRAR e crie uma senha para a nova conta recep.
+4. Encerre a sessão.
+5. Entre na NOVA conta recep usando a senha criada.
+6. Execute no Desktop Público: 2_CONCLUIR_MIGRACAO.cmd.
+7. Digite COPIAR.
+8. Crie novamente o PIN.
+
+Serão copiadas as pastas pessoais: Desktop, Documents, Downloads, Pictures, Music, Videos, Favorites, Links, Contacts e Saved Games.
+
+Não serão copiados AppData, NTUSER.DAT, PIN, senhas de aplicativos ou sessões de navegador.
+
+C:\Users\User continuará intacta como recuperação. Não a apague imediatamente.
+
+O arquivo REVERTER_MIGRACAO.cmd ficará no Desktop Público e restaura o nome recep para a conta antiga sem apagar arquivos.

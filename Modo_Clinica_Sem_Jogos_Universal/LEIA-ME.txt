@@ -1,0 +1,66 @@
+﻿MODO CLÍNICA — REMOVER E DESATIVAR JOGOS — V2 CORRIGIDA
+
+Esta versão corrige o erro:
+
+"Os tipos de argumento não correspondem"
+
+O erro ocorria ao salvar o estado anterior para reversão. A V2 usa somente
+estruturas simples compatíveis com Windows PowerShell 5.1.
+
+O PROCESSO ANTERIOR
+
+Como a execução parou logo depois da tentativa de criar ponto de restauração e
+antes de aparecer "Desativação de recursos de jogos", é provável que nenhum
+jogo tenha sido removido e nenhum serviço tenha sido desativado.
+
+COMO EXECUTAR
+
+1. Feche o script anterior.
+2. Extraia este novo ZIP em outra pasta.
+3. Clique com o botão direito em:
+   MODO_CLINICA_SEM_JOGOS.cmd
+4. Escolha "Executar como administrador".
+5. Escolha a opção 2.
+6. Digite exatamente:
+   REMOVER JOGOS
+7. Aguarde o inventário posterior.
+8. Reinicie o notebook.
+
+O QUE SERÁ REMOVIDO
+
+Quando estiver instalado:
+- Xbox App / Gaming App;
+- Xbox Game Bar e overlays;
+- Gaming Services;
+- Xbox Identity Provider;
+- Xbox Speech-to-Text;
+- Microsoft Solitaire Collection;
+- provisionamento desses aplicativos para novos usuários.
+
+O QUE SERÁ DESATIVADO
+
+- Game DVR;
+- captura e transmissão de jogos;
+- atalhos e painel da Game Bar;
+- serviços exclusivamente relacionados a Xbox/Gaming.
+
+O QUE SERÁ PRESERVADO
+
+- Microsoft Store;
+- Windows Update;
+- drivers;
+- GameInput;
+- Office;
+- navegador;
+- sistema da clínica;
+- impressoras;
+- arquivos pessoais.
+
+REVERSÃO
+
+A opção 3 restaura políticas e serviços usando:
+
+C:\ProgramData\APX-ModoClinicaJogos\estado_mais_recente.json
+
+Aplicativos removidos não são reinstalados automaticamente, mas podem ser
+obtidos novamente pela Microsoft Store.
