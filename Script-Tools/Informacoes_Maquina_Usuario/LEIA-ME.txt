@@ -1,0 +1,78 @@
+﻿INFORMAÇÕES DA MÁQUINA E DO USUÁRIO
+Versão: 2026.07.15.13
+
+Objetivo
+--------
+Mostrar rapidamente informações básicas do computador para suporte técnico.
+Agora o executável abre uma janela simples com "Estação de Trabalho" em destaque,
+usando paleta visual inspirada na marca: azul forte, amarelo/dourado, vermelho e fundo claro.
+
+Como usar
+---------
+1. Clique duas vezes em Informacoes_Maquina_Usuario.exe.
+2. Aguarde a janela abrir.
+3. Confira o quadro "Estação de Trabalho".
+4. Use o botão "Copiar informações" se precisar enviar os dados ao suporte.
+5. Use o botão "Limpeza rápida" se quiser remover temporários, cache, cookies e a Lixeira.
+6. Um arquivo TXT também será salvo automaticamente na pasta do aplicativo.
+
+O quadro principal mostra:
+- Nome da máquina;
+- Usuário logado;
+- Modelo;
+- Número de série;
+- IP IPv4;
+- Nome da rede;
+- Última reinicialização;
+- Tempo sem reiniciar.
+
+Esses campos também aparecem no TXT salvo.
+
+Limpeza rápida
+--------------
+O botão "Limpeza rápida" tenta remover:
+- arquivos temporários do usuário;
+- arquivos temporários locais;
+- cache de Internet do Windows;
+- cache de miniaturas/ícones do Explorer;
+- cache e cookies de Google Chrome, Microsoft Edge, Brave e Mozilla Firefox;
+- conteúdo da Lixeira.
+
+Observações importantes:
+- não exige administrador;
+- arquivos em uso são ignorados;
+- remover cookies pode deslogar sites e sistemas;
+- esvaziar a Lixeira remove arquivos de forma permanente;
+- se houver janelas "sem resposta", o aplicativo perguntará antes de tentar encerrá-las;
+- o relatório da estação e o log da limpeza serão salvos na pasta do aplicativo.
+- usuários sem perfil administrativo não veem o caminho completo do relatório na tela.
+
+Alternativa
+-----------
+Se algum dado básico não aparecer ao abrir o .exe direto, clique em EXECUTAR_INFORMACOES_MAQUINA.cmd.
+O .cmd passa o nome da máquina e o usuário do próprio ambiente do Windows para o .exe.
+Se o antivírus bloquear executáveis baixados ou se o .exe não existir, o .cmd usa o PowerShell como fallback.
+
+O que o script mostra
+---------------------
+- usuário logado;
+- nome da máquina;
+- nome do computador;
+- fabricante;
+- modelo;
+- número de série;
+- versão/build do Windows;
+- última reinicialização;
+- tempo sem reiniciar;
+- nome da rede;
+- SSID Wi-Fi, quando disponível;
+- IP IPv4;
+- gateway;
+- DNS;
+- MAC;
+- conexões IPv4 ativas.
+
+Segurança
+---------
+O script é somente leitura.
+Ele não altera configurações, não instala programas, não remove programas e não exige administrador.

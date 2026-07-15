@@ -1,0 +1,36 @@
+﻿ANÁLISE DE IMPACTO DAS RESTRIÇÕES DE JOGOS E WALLPAPER
+
+Este pacote investiga se o Modo Clínica sem jogos ou o bloqueio de wallpaper
+podem estar relacionados à lentidão do computador.
+
+O script é somente leitura:
+- não restaura serviços;
+- não reinstala aplicativos;
+- não remove políticas;
+- não altera wallpaper;
+- não reinicia o computador.
+
+O que ele coleta:
+- identificação do computador;
+- políticas de GameDVR/GameBar/Xbox;
+- estado dos serviços Xbox/Gaming;
+- aplicativos Xbox/Gaming ainda instalados;
+- políticas de wallpaper dos perfis carregados;
+- bloqueio de tela em HKLM;
+- eventos recentes ligados a Gaming, Xbox, Shell, DWM, Explorer, AppX,
+  Group Policy e wallpaper;
+- amostras de CPU, DPC, interrupções, memória, disco e processos.
+
+Como usar:
+1. Clique com o botão direito em EXECUTAR_ANALISE_IMPACTO_RESTRICOES.cmd.
+2. Escolha Executar como administrador.
+3. Use o notebook normalmente durante a coleta.
+4. Ao final, abra RESULTADO_LEIA_PRIMEIRO.txt no relatório gerado na Área de Trabalho.
+
+Interpretação:
+- restrições de jogos normalmente reduzem processos de fundo quando os serviços
+  ficam parados/desabilitados;
+- wallpaper bloqueado normalmente é uma política estática de Registro;
+- indícios relevantes são: wallpaper apontando para arquivo inexistente/rede,
+  eventos repetidos de Shell/Group Policy/Gaming, ou processos relacionados
+  aparecendo com CPU/I/O alto durante a amostra.

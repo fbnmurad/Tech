@@ -1,0 +1,68 @@
+﻿LIMPEZA RÁPIDA
+Data: 15/07/2026 18:39:37
+Usuário: L20S1-T14-RECEP\recep
+
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\2ffeb67a-7a49-4704-979d-361784cffc18.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\2ffeb67a-7a49-4704-979d-361784cffc18.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\37e078bb-13a5-4564-af66-bdb98cd67258.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\37e078bb-13a5-4564-af66-bdb98cd67258.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\3ec00588-5982-4222-924f-4eda4a9c894f.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\3ec00588-5982-4222-924f-4eda4a9c894f.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\5646fd56-1403-4938-b8d8-f1e9507408a7.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\5646fd56-1403-4938-b8d8-f1e9507408a7.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\860401a0-c874-4dbd-9e69-e49be3466c49.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\860401a0-c874-4dbd-9e69-e49be3466c49.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\8bab4a0a-4c1f-4573-84c8-fbbc2bb9826c.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\8bab4a0a-4c1f-4573-84c8-fbbc2bb9826c.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\97fadf74-fb61-416e-8853-2cfadddaae04.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\97fadf74-fb61-416e-8853-2cfadddaae04.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\ab38b80b-551c-4f93-9058-2501c9c6cebf.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\ab38b80b-551c-4f93-9058-2501c9c6cebf.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\b5fb37a6-24af-4c97-a0a5-34fb84756143.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\b5fb37a6-24af-4c97-a0a5-34fb84756143.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\bede31a6-64f3-4ce4-92cc-23a6194fced3.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\bede31a6-64f3-4ce4-92cc-23a6194fced3.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\c6189daf-caad-46dc-95d4-020d81d7d6f8.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\c6189daf-caad-46dc-95d4-020d81d7d6f8.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\d3b58755-0bb8-41b6-ba4e-8113656655cc.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\d3b58755-0bb8-41b6-ba4e-8113656655cc.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\e8a6f03b-efad-4ccd-95a3-7e4c626fdc90.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\e8a6f03b-efad-4ccd-95a3-7e4c626fdc90.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\ebc4dcd8-ce9d-4052-9c73-ba61a88c5cb2.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\ebc4dcd8-ce9d-4052-9c73-ba61a88c5cb2.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\f4c4d133-0a5b-413e-803d-46557d030791.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\f4c4d133-0a5b-413e-803d-46557d030791.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\mat-debug-10336.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-10336.log' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\mat-debug-17004.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-17004.log' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários do usuário): C:\Users\User\AppData\Local\Temp\mat-debug-7680.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-7680.log' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\2ffeb67a-7a49-4704-979d-361784cffc18.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\2ffeb67a-7a49-4704-979d-361784cffc18.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\37e078bb-13a5-4564-af66-bdb98cd67258.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\37e078bb-13a5-4564-af66-bdb98cd67258.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\3ec00588-5982-4222-924f-4eda4a9c894f.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\3ec00588-5982-4222-924f-4eda4a9c894f.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\5646fd56-1403-4938-b8d8-f1e9507408a7.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\5646fd56-1403-4938-b8d8-f1e9507408a7.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\860401a0-c874-4dbd-9e69-e49be3466c49.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\860401a0-c874-4dbd-9e69-e49be3466c49.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\8bab4a0a-4c1f-4573-84c8-fbbc2bb9826c.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\8bab4a0a-4c1f-4573-84c8-fbbc2bb9826c.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\97fadf74-fb61-416e-8853-2cfadddaae04.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\97fadf74-fb61-416e-8853-2cfadddaae04.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\ab38b80b-551c-4f93-9058-2501c9c6cebf.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\ab38b80b-551c-4f93-9058-2501c9c6cebf.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\b5fb37a6-24af-4c97-a0a5-34fb84756143.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\b5fb37a6-24af-4c97-a0a5-34fb84756143.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\bede31a6-64f3-4ce4-92cc-23a6194fced3.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\bede31a6-64f3-4ce4-92cc-23a6194fced3.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\c6189daf-caad-46dc-95d4-020d81d7d6f8.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\c6189daf-caad-46dc-95d4-020d81d7d6f8.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\d3b58755-0bb8-41b6-ba4e-8113656655cc.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\d3b58755-0bb8-41b6-ba4e-8113656655cc.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\e8a6f03b-efad-4ccd-95a3-7e4c626fdc90.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\e8a6f03b-efad-4ccd-95a3-7e4c626fdc90.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\ebc4dcd8-ce9d-4052-9c73-ba61a88c5cb2.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\ebc4dcd8-ce9d-4052-9c73-ba61a88c5cb2.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\f4c4d133-0a5b-413e-803d-46557d030791.tmp | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\f4c4d133-0a5b-413e-803d-46557d030791.tmp' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\mat-debug-10336.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-10336.log' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\mat-debug-17004.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-17004.log' porque ele está sendo usado por outro processo.
+- Ignorado (Temporários locais): C:\Users\User\AppData\Local\Temp\mat-debug-7680.log | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Temp\mat-debug-7680.log' porque ele está sendo usado por outro processo.
+- Pasta ignorada (Cache de Internet do Windows): C:\Users\User\AppData\Local\Microsoft\Windows\INetCache\Content.IE5 | O acesso ao caminho 'C:\Users\User\AppData\Local\Microsoft\Windows\INetCache\Content.IE5' foi negado.
+- Cache de Internet do Windows: 1 arquivo(s), 1 pasta(s), 0 B
+- Cache de miniaturas do Explorer: 15 arquivo(s), 3,01 MB
+- Cache de ícones do Explorer: 15 arquivo(s), 2,01 MB
+
+Google Chrome:
+- Ignorado (Google Chrome cache - Profile 1): C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\No_Vary_Search\journal.baj | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Cache\No_Vary_Search\journal.baj' porque ele está sendo usado por outro processo.
+- Ignorado (Google Chrome cookies - Profile 1): C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Network\Cookies | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Network\Cookies' porque ele está sendo usado por outro processo.
+- Ignorado (Google Chrome cookies journal - Profile 1): C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Network\Cookies-journal | O processo não pode acessar o arquivo 'C:\Users\User\AppData\Local\Google\Chrome\User Data\Profile 1\Network\Cookies-journal' porque ele está sendo usado por outro processo.
+
+Microsoft Edge:
+
+Lixeira:
+- Lixeira esvaziada: 20 item(ns), 27,00 MB
+
+Tarefas sem resposta encontradas:
+- SystemSettings (PID 18608) - Configurações
+
+Tentativa de encerramento de tarefas sem resposta:
+- Encerrada: SystemSettings (PID 18608) - Configurações
+
+RESUMO
+Arquivos removidos: 51
+Pastas removidas: 1
+Espaço liberado: 32,02 MB
+Itens ignorados/em uso: 40
+Tarefas sem resposta encontradas: 1
+Tarefas encerradas: 1
