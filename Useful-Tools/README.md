@@ -25,6 +25,7 @@ Os seguintes instaladores oficiais de 64 bits estão arquivados em suas respecti
 - Bitdefender Antivirus Free: `Bitdefender-Antivirus-Free/bitdefender_avfree.exe`
 - Lightshot 5.5.0.7: `Lightshot/setup-lightshot.exe`
 - Keyboard Backlight for Lenovo 1.0.2: `KeyboardBacklightForLenovo-Bundle-x64-1.0.2.exe`
+- iCSee VMS para PC 2.0.28.1: `icsee for pc  VMS_Win64_V2.0.28.1.T.20240621.exe`
 
 O OneNote faz parte da instalação do Microsoft Office deste computador. O Microsoft Copilot é distribuído e atualizado pela Microsoft Store, produto `9NHT9RB2F4HD`, portanto não possui instalador offline nesta pasta.
 
@@ -34,4 +35,5 @@ Todos os executáveis e pacotes acima foram baixados dos sites oficiais e tivera
 
 - O instalador do Lightshot foi obtido em `https://app.prntscr.com/build/setup-lightshot.exe` e possui assinatura digital válida da Skillbrains.
 - O pacote `KeyboardBacklightForLenovo-Bundle-x64-1.0.2.exe` foi adicionado manualmente e **não possui assinatura digital**. Verifique sua procedência antes de executá-lo em outros computadores.
+- O instalador `icsee for pc  VMS_Win64_V2.0.28.1.T.20240621.exe` foi adicionado manualmente e **não possui assinatura digital**. SHA-256: `6649B4602A9DD76F5CD08C9DAA25CAF65A8F5B56649693FF01D1A9A3E58952E6`. Verifique sua procedência antes de executá-lo em outros computadores.
 - Em `ShareX`, somente as configurações gerais e de atalhos podem ser versionadas. Configurações de upload, backups e logs ficam fora do Git porque podem conter credenciais, identificadores e dados locais.
