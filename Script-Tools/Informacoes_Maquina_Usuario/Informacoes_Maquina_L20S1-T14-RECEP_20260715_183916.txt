@@ -1,0 +1,58 @@
+﻿============================================================
+ ESTAÇÃO DE TRABALHO
+============================================================
+
+Versão do pacote            : 2026.07.15.12
+Nome da máquina             : L20S1-T14-RECEP
+Usuário logado              : L20S1-T14-RECEP\recep
+Modelo                      : 20S1SC2501
+Número de série             : PE07WTN6
+IP IPv4                     : 192.168.1.36
+Nome da rede                : Floresta_AP_2,4 GHz
+Última reinicialização      : 15/07/2026 10:36:43
+Tempo sem reiniciar         : 8 hora(s), 2 minuto(s)
+Data da coleta              : 15/07/2026 18:39:15
+
+COMPUTADOR
+Nome da máquina             : L20S1-T14-RECEP
+Nome do computador          : L20S1-T14-RECEP
+Nome via ambiente           : L20S1-T14-RECEP
+Nome via WMI                : L20S1-T14-RECEP
+Fabricante                  : LENOVO
+Modelo                      : 20S1SC2501
+Número de série             : PE07WTN6
+Domínio/Grupo de trabalho   : REDE-APX-ITA
+Usuário logado              : L20S1-T14-RECEP\recep
+Usuário do processo         : L20S1-T14-RECEP\recep
+
+WINDOWS
+Sistema                     : Microsoft Windows 11 Pro
+Versão                      : 10.0.26200
+Build                       : 26200
+Arquitetura                 : 64 bits
+Última reinicialização      : 15/07/2026 10:36:43
+Tempo sem reiniciar         : 8 hora(s), 2 minuto(s)
+
+REDE PRINCIPAL
+Nome da rede                : Floresta_AP_2,4 GHz
+SSID Wi-Fi                  : Floresta_AP_2,4 GHz
+Interface                   : Wi-Fi
+Categoria                   : Public
+IP IPv4                     : 192.168.1.36
+Gateway                     : 192.168.1.1
+DNS                         : 192.168.1.1
+MAC                         : 58:6C:25:5A:CE:F9
+
+TODAS AS CONEXÕES IPv4 ATIVAS
+- Wi-Fi [principal] | Rede: Floresta_AP_2,4 GHz | IP: 192.168.1.36 | Gateway: 192.168.1.1
+
+CONFIRMAÇÃO DOS CAMPOS PEDIDOS
+Nome da máquina             : L20S1-T14-RECEP
+Usuário logado              : L20S1-T14-RECEP\recep
+Modelo                      : 20S1SC2501
+Número de série             : PE07WTN6
+IP IPv4                     : 192.168.1.36
+Nome da rede                : Floresta_AP_2,4 GHz
+Tempo sem reiniciar         : 8 hora(s), 2 minuto(s)
+
+Observação: este executável é somente leitura. Nenhuma configuração foi alterada.
